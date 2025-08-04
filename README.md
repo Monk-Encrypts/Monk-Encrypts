@@ -1,8 +1,8 @@
 # 👋 Namaste, I'm Monk_Encrypts
+
 ## Spiritual Hacker ⚔️ | Learning Every Layer 📶 | Chant. Code. Repeat.
  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=07D9B1&width=435&lines=Living+between+Mantra+and+Malware;Securing+systems+with+spiritual+discipline" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=07D9B1&width=550&lines=Living+between+Mantra+and+Malware;Securing+systems+with+spiritual+discipline" alt="Typing SVG" />
 
 ---
 
