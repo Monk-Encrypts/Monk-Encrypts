@@ -34,7 +34,7 @@
 
 ---
 
-![Monk_Encrypts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monk_Encrypts&show_icons=true&theme=radical)
+[![Monk-encrypts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monk-encrypts&show_icons=true&theme=radical)](https://github.com/Monk-Encrypts)
 
 ---
 
