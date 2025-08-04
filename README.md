@@ -34,6 +34,10 @@
 
 ---
 
+![Monk_Encrypts's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monk_Encrypts&show_icons=true&theme=radical)
+
+---
+
 ### 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-manurkar/)
